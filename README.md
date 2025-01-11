@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Jotheesh
 
-- 🌲 I'm currently learning DSA 
-- 🍁 I would like to colloborate on cross-platform app development 
+- 🌲 I'm currently learning DSA and Flutter App Development
+- 🍁 I would like to colloborate on cross-platform app development
 
 ---
 
